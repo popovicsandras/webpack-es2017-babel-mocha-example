@@ -1,0 +1,35 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
+bower_components
+build
+dist
+.tmp
+coverage
+
+*~
+core-ui.css
+core-ui.js
+core-ui.min.css
+core-ui.min.js
+
+.project
+*.iml
+/.idea/
+.vscode/
+*.rdb
